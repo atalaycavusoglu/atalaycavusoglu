@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&pause=1000&color=F71145&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a> </h1>
 
-<h3 align="center">Hi there! I'm a mobile and frontend developer from Turkiye with expertise in Swift, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and user-friendly interfaces, and I strive to deliver high-quality, maintainable, and scalable code. I value good communication and collaboration, and I'm always open to new opportunities and challenges.</h3>
+<h3 align="center">Hi there! I'm a mobile and frontend developer from Turkiye with beginner in Swift, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and user-friendly interfaces, and I strive to deliver high-quality, maintainable, and scalable code. I value good communication and collaboration, and I'm always open to new opportunities and challenges.</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/atalaycavusoglu?tab=repositories)
 
