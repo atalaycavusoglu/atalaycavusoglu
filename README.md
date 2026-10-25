@@ -1,24 +1,18 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&pause=1000&color=F71145&width=435&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a> </h1>
-
-<h3 align="center">Hi there! I'm a mobile and frontend developer from Türkiye with beginner in Swift, HTML, CSS, and JavaScript. I'm passionate about creating beautiful and user-friendly interfaces, and I strive to deliver high-quality, maintainable, and scalable code. I value good communication and collaboration, and I'm always open to new opportunities and challenges.</h3>
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/atalaycavusoglu?tab=repositories)
-
-- 📫 How to reach me **atalaycavusoglu1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/atalay-çavuşoğlu-b225b8165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/atalay-çavuşoğlu-b225b8165" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-![snake gif](https://github.com/atalaycavusoglu/atalaycavusoglu/blob/output/github-contribution-grid-snake.svg)
+# 💫 About Me:
+🔭 I’m currently working on personal projects exploring AI agents, automation, and practical applications of generative AI.<br><br>👯 I’m looking to collaborate on AI-powered tools, automation workflows, open-source experiments, and projects that solve real-world problems.<br><br>🤝 I’m looking for help with designing reliable AI workflows and turning early prototypes into useful products.<br><br>🌱 I’m currently deepening my knowledge of AI agents, generative AI, LLM workflows, prompt engineering, and automation.<br><br>💬 Ask me about AI tools, digital transformation, digital marketing, e-commerce, and rapid prototyping.<br><br>⚡ Fun fact: I enjoy turning ideas from different fields into small, working experiments with AI.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cavusogluatalay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atalaycavusoglu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atalaycavusoglu1@gmail.com) 
+
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=atalaycavusoglu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=atalaycavusoglu&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=atalaycavusoglu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
